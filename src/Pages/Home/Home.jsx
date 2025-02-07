@@ -1,13 +1,19 @@
 import About from "../../Components/About/About";
 import Banner from "../../Components/Banner/Banner";
-import Social from "../../Components/SocialLink/Social";
+import Contact from "../../Components/Contact/Contact";
+import EducationalQualification from "../../Components/EducationalQualification/EducationalQualification";
+import Skills from "../../Components/Skills/Skills";
+import Project from "../Project/Project";
 
 const Home = () => {
     return (
         <div>
             <Banner></Banner>
-            <Social></Social>
+            <Project></Project>
             <About></About>
+            <Skills></Skills>
+            <EducationalQualification></EducationalQualification>
+            <Contact></Contact>
         </div>
     );
 };

@@ -1,3 +1,4 @@
+import logo from '../../assets/profile/logo.jpg'
 const Navbar = () => {
     const links = 
       <>
@@ -37,7 +38,7 @@ const Navbar = () => {
             {links}
           </ul>
         </div>
-        <a className="btn btn-ghost text-xl">daisyUI</a>
+        <img className='w-10 h-10 rounded-lg' src={logo} alt="" />
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">

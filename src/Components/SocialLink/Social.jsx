@@ -4,8 +4,7 @@ import { FaSquareXTwitter } from "react-icons/fa6";
 const Social = () => {
     return (
         <div>
-            <h1>Social Links:</h1>
-            <div className="flex space-x-4">
+            <div className="flex space-x-4 justify-center mt-2">
       {/* LinkedIn */}
       <a
         href="https://www.linkedin.com/in/yourusername"
