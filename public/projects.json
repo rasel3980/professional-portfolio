@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Hotel Booking Platform",
+      "image": "https://i.ibb.co.com/zVz3rJnB/Screenshot-2025-02-08-170516.png",
+      "description": "A fully-functional hotel booking web application that allows users to browse rooms, book their stays, view room details, post reviews, and manage bookings. This app integrates a variety of features such as JWT authentication, Google login, date pickers, and a responsive UI with modern libraries like React, Leaflet, and React Router.",
+      "technologies": ["React", "Node.js", "MongoDB", "Express"],
+      "liveLink": "https://hotel-booking-platform.com",
+      "githubLink": "https://github.com/rasel3980",
+      "challenges": "Optimizing performance with large datasets, handling real-time data and integrating payment systems.",
+      "improvements": "Adding user authentication and a payment gateway for seamless transactions. Expanding the booking functionality for multi-room reservations."
+    },
+    {
+      "id": 2,
+      "name": "Lingo Bingo",
+      "image": "https://i.ibb.co.com/wDXQkM5/Screenshot-2025-02-08-170904.png",
+      "description": "The Spanish Vocabulary Project is a web application designed to help users learn and practice Spanish vocabulary. The app offers various features such as learning new words, testing your vocabulary knowledge, and tracking your learning progress. It is built using React, Firebase, and Tailwind CSS for styling, offering a user-friendly and responsive experience.",
+      "technologies": ["React.js", "Node.js", "MongoDB", "Firebase"],
+      "liveLink": "https://vocabulary-authentication.web.app/",
+      "githubLink": "https://github.com/rasel3980",
+      "challenges": "Ensuring cross-browser compatibility and mobile responsiveness across various screen sizes.",
+      "improvements": "Adding an admin dashboard to manage vocabulary content and user progress. Implementing user ratings and feedback on vocabulary lessons."
+
+    },
+    {
+      "id": 3,
+      "name": "Visa Navigator",
+      "image": "https://i.ibb.co.com/WvX98z9r/Screenshot-2025-02-08-171452.png",
+      "description": "Welcome to the Visa Navigator, a comprehensive platform designed to help users easily access information about various visa types, application processes, and requirements for different countries. The website also allows users to apply for visas directly through the platform.",
+      "technologies": ["React.js", "Node.js", "MongoDB", "Firebase"],
+      "liveLink": "https://visa-navigator-7c020.web.app/",
+      "githubLink": "https://github.com/rasel3980",
+      "challenges": "JWT token management and authentication with external APIs, ensuring security during user data submission.",
+      "improvements": "Improving SEO for better visibility and adding media uploads for document submissions. Expanding the platform to include more countries and visa categories."
+    }
+  ]
+  

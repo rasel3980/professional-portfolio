@@ -1,12 +1,13 @@
-import logo from '../../assets/profile/logo.jpg'
+import { NavLink } from 'react-router-dom';
+import logo from '../../assets/profile/Blue_and_Red_Infinity_Technology_Logo-removebg-preview.png'
 const Navbar = () => {
     const links = 
       <>
-      <li><a href="/">Home</a></li>
-      <li><a>About</a></li>
-      <li><a>Projects</a></li>
-      <li><a>Skills</a></li>
-      <li><a>Contact</a></li>
+      <li><NavLink to="/">Home</NavLink></li>
+      <li><NavLink to="/about">About</NavLink></li>
+      <li><NavLink to="/projects">Projects</NavLink></li>
+      <li><NavLink to="/skill">Skills</NavLink></li>
+      <li><NavLink to="/contact">Contact</NavLink></li>
       <li><a>Resume</a></li>
       </>
     
